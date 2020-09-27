@@ -1,3 +1,3 @@
-module github.com/Sodikjon/bank/v2
+module github.com/Sodikjon/bank
 
 go 1.15
